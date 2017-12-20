@@ -2,7 +2,7 @@
 
 ## Gradle Setup
 
-#### $PROJECT_ROOT/android/app/build.gradle
+#### $PROJECT_ROOT/android/build.gradle
 
 We need to add some `repositories` in order to get our dependencies.
 
