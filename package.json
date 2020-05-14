@@ -38,7 +38,7 @@
     "react-native": ">=0.47.1"
   },
   "dependencies": {
-    "@turf/helpers": "4.6.0"
+    "@turf/helpers": "4.7.3"
   },
   "devDependencies": {
     "babel-eslint": "6.1.2",
